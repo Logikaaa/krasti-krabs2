@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    width: 100%;
+}
+
+/* Стилі для заголовка */
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #35A99F;
+    color: white;
+}
+
+/* Стилі для навігації */
+nav {
+    display: flex;
+    background-color: #35A99F;
+    justify-content: center;
+    padding: 15px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+.nav-link:first-child {
+    background-color: #AFC5BF;
+}
+
+/* Стилі для заголовків */
+h1 {
+    text-align: center;
+}
+
+/* Стилі для абзаців */
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Стилі для контейнера зображення */
+.ass {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+/* Стилі для блоку переваг */
+.lololoska {
+    display: flex;
+    background-color: #35A99F;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ule {
+    flex: 1;
+}
+
+.old {
+    text-align: right;
+    color: white;
+}
+
+.cc {
+    flex: 1;
+}
+
+/* Стилі для кнопки замовлення */
+.rtx {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.rt {
+    background-color: #833426CF;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Стилі для футера */
+.fof {
+    background-color: #35A99F;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
